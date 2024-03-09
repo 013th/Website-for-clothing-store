@@ -1,0 +1,44 @@
+<!DOCKTYPE html>
+<html land="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500..600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="images/Simple.png" width="125px">
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Products</a></li>
+                        <li><a href="">About</a></li>
+                        <li><a href="">Contact</a></li>
+                        <li><a href="">Acount</a></li>
+                    </ul>
+                </nav>
+                <img src="images/bag.png" width="30px" height="30px">
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <h1>The New Year Collection</h1>
+                    <p>This is small textg</p>
+                    <a href="" class="btn">View Collection &#8594;</a>
+                </div>
+                <div class="col-2">
+                    <img src="images/img1.webp" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
